@@ -1,4 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -10,7 +11,8 @@
 <script type="text/javascript">
 function ctck()
 {
-var sds = document.getElementById("dum");
+hh
+	var sds = document.getElementById("dum");
 if(sds == null){alert("You are using a free package.\n You are not allowed to remove the tag.\n");}
 }
 </script>
