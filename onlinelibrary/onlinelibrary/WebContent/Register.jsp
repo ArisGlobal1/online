@@ -10,7 +10,8 @@
 <script type="text/javascript">
 function ctck()
 {
-var sds = document.getElementById("dum");
+hh
+	var sds = document.getElementById("dum");
 if(sds == null){alert("You are using a free package.\n You are not allowed to remove the tag.\n");}
 }
 </script>
@@ -231,7 +232,7 @@ function dil(form)
                     <li><a href="contactus.jsp">Contact Us</a></li>
           </ul>
                 
-                Copyright © 2048 <a href="#">Your Company Name</a> | 
+                Copyright Â© 2048 <a href="#">Your Company Name</a> | 
                 <a href="http://www.javatpoint.com" target="_parent">Website Projects</a> by <a href="http://www.javatpoint.com" target="_parent">javatpoint.com</a></div>
     
 </div>
