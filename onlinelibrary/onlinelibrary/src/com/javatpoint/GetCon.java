@@ -15,7 +15,7 @@ static{
 	
 		System.out.println("Exception in GetCon");
 	}
-	
+	//edited
 }
 public static Connection getCon(){
 	return con;
