@@ -7,7 +7,7 @@
 <meta name="keywords" content="free css templates, education, school, college, university, templatemo.com" />
 <meta name="description" content="Education template is for academic related websites" />
 <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
-
+//added a link
 <script type="text/javascript">
 function ctck()
 {
